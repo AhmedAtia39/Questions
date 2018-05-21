@@ -1,0 +1,6 @@
+﻿20 , 15 , 30 , 2
+adham , mohamed , ibrahim , 1
+2 , 3  , 26  , 1
+accounting , FCI , engineering , 1
+italian , suadian , egyptian , 2
+sharqia , Egypt , Italy , 0
